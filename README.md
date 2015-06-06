@@ -8,10 +8,10 @@ pip install -r requirements.txt
 python express checkout demo website
 
 client side
-	- reactjs
-	- bootstrap
+ - reactjs
+ - bootstrap
 
 server side
-	- flask
+ - flask
 
 
